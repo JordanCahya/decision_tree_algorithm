@@ -30,6 +30,8 @@ Please refer to the full article uploaded in https://medium.com/p/2f68c6ef0d5e
 
 ## References
 
-Hambali, M. A., Saheed, Y. K., Oladele, T. O., & Gbolagade, M. D. (2019). ADABOOST Ensemble Algorithms for Breast Cancer Classification. Journal of Advances in Computer Research, 10(2), 31–52. Retrieved from www.jacr.iausari.ac.ir
-PACMANN Academy. (2023). Jakarta
-Medium link: https://medium.com/p/2f68c6ef0d5e
+- Hambali, M. A., Saheed, Y. K., Oladele, T. O., & Gbolagade, M. D. (2019). ADABOOST Ensemble Algorithms for Breast Cancer Classification. Journal of Advances in Computer Research, 10(2), 31–52. Retrieved from www.jacr.iausari.ac.ir
+
+- PACMANN Academy. (2023). Jakarta
+
+- Medium link: https://medium.com/p/2f68c6ef0d5e
