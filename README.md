@@ -4,11 +4,7 @@ A decision tree is an algorithm for supervised learning that is not based on spe
 
 The objective of the decision tree is to find the optimal splits for each node to minimise error and maximised the performance of the model. To find the optimal splits, splitting criteria such as the 'gini index' or 'entropy' has been utilised to act as a splitting guide for the tree to determine the best splitting possibility which can minimised the error and maximized the performance of the model. Additionally, hyperparameters such as max_depth, min_samples_split, and min_sample_leaf are enforced to prevent the overfitting of the decision tree.
 
-This study has been based on the pseudocode provided by Hambali, M. A., Saheed, Y. K., Oladele, T. O., & Gbolagade, M. D. (2019)'s journal. However, with several modifications by adding hyperparameters, fit and predict functions, and other supporting functions. Therefore, a new pseudocode has been created which can be seen as follows.
-
-![image](https://github.com/JordanCahya/decision_tree_algorithm/assets/115296804/0883717f-10c0-4c6c-a0ea-b5d5a3e08a56)
-
-In addition, to make the understanding easire, the following flowchart of Classification Tree has been created:
+This study has been based on the pseudocode provided by Hambali, M. A., Saheed, Y. K., Oladele, T. O., & Gbolagade, M. D. (2019)'s journal. The following flowchart of the Classification Tree can be seen below to make the algorithm easier to be understood:
 
 ![image](https://github.com/JordanCahya/decision_tree_algorithm/assets/115296804/ddc37ff2-9568-4662-aa8d-28beb01a3582)
 
